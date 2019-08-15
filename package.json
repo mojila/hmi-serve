@@ -1,0 +1,16 @@
+{
+  "name": "hmi-serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mojila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet-csp": "^2.8.0"
+  }
+}
