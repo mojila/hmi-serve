@@ -1,3 +1,3 @@
 [submodule "src"]
 	path = src
-	url = https://github.com/mojila/hmi-timbangan.git
+	url = https://github.com/developer-sakti/oee-nabati-hmi-timbangan.git
