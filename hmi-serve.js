@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const csp = require('helmet-csp')
 
-app.use(express.static(`${__dirname}/src/dist`));
+app.use(express.static(`${__dirname}/src/build`));
 
 app.use(csp({
     // Specify directives as normal.
